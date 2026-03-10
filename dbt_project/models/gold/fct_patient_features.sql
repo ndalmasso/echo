@@ -1,0 +1,3 @@
+-- models/gold/fct_patient_features.sql
+-- Phase 3 — one row per patient, ML-ready feature table with churn label
+-- TODO: implement in Phase 3 of ROADMAP.md

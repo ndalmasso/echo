@@ -1,0 +1,3 @@
+-- models/silver/int_patient_encounters.sql
+-- Phase 2 — join patients to encounters, compute days between visits
+-- TODO: implement in Phase 2 of ROADMAP.md

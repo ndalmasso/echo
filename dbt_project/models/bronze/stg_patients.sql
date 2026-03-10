@@ -1,0 +1,3 @@
+-- models/bronze/stg_patients.sql
+-- Phase 1 — raw patients table, minimal aliasing
+-- TODO: implement in Phase 1 of ROADMAP.md
