@@ -33,10 +33,4 @@ A phased build checklist. Work through each phase in order.
 - [X] `notebooks/03_churn_model.ipynb` — LightGBM + AUC + SHAP
 - [X] Export figures
 ## Phase 7 — LaTeX Report
-- [X] Two-column paper in `report/main.tex`
-- [X] Insert all figures, write all sections
-- [X] Compile to PDF and commit
-## Phase 8 — Polish & Publish
-- [X] Clean up notebooks and README
-- [ ] Tag release v1.0.0
-- [ ] Add to CV and LinkedIn
+- [X] LaTeX Report
