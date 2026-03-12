@@ -122,7 +122,7 @@ Run notebooks 01–03 in order within Databricks, against the `workspace.default
 
 A full write-up of the methodology and findings is available as a preprint on Zenodo:
 
-**[ECHO: Engagement & Churn Health Observatory — Read the Report →](https://zenodo.org/records/18991112)**
+**[ECHO: Engagement & Churn Health Observatory — Read the Report](https://zenodo.org/records/18991112)**
 
 ---
 
