@@ -22,7 +22,7 @@ The project demonstrates a full analytics workflow — from raw data ingestion t
 | Churn prevalence | 17.1% (20 / 117 patients) |
 | Patient segments | 4 (K-Means, k=4) |
 | Churn classifier AUC-ROC | 0.737 (LightGBM) |
-| Top churn predictor | Average claim cost (SHAP) |
+| Top churn predictor | Age (SHAP) |
 
 **Segment summary:**
 
