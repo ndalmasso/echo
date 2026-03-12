@@ -120,12 +120,9 @@ Run notebooks 01–03 in order within Databricks, against the `workspace.default
 
 ## Report
 
-A full write-up of the methodology and findings is available in [`report/main.tex`](report/main.tex). To compile locally:
+A full write-up of the methodology and findings is available as a preprint on Zenodo:
 
-```bash
-cd report
-pdflatex main.tex && pdflatex main.tex
-```
+**[ECHO: Engagement & Churn Health Observatory — Read the Report →](https://zenodo.org/records/18991112)**
 
 ---
 
